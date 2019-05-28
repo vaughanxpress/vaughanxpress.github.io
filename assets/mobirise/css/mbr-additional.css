@@ -1776,32 +1776,93 @@ body {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-rroLnY0K6T {
-  padding-top: 135px;
-  padding-bottom: 90px;
-  background-color: #0f7699;
+.cid-rrLE6pjLfE {
+  background-image: url("../../../assets/images/img-2425-2000x1472.jpg");
 }
-.cid-rroLnY0K6T P {
-  color: #767676;
+.cid-rrLE6pjLfE H1 {
+  color: #cc2952;
 }
-.cid-rroLnY0K6T .mbr-text,
-.cid-rroLnY0K6T .mbr-section-btn I {
-  color: #efefef;
+.cid-rrLE6pjLfE .mbr-text,
+.cid-rrLE6pjLfE .mbr-section-btn {
+  color: #ffffff;
+  text-align: left;
 }
-.cid-rroLnY0K6T H1 {
-  color: #efefef;
+.cid-rrLE6pjLfE H3 {
+  text-align: left;
+  color: #ffffff;
 }
-.cid-rroBK0pWHD {
-  background: #0f7699;
+.cid-rrLElC1JgL {
+  padding-top: 30px;
+  padding-bottom: 15px;
+  background-color: #073b4c;
 }
-.cid-rroBK0pWHD .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rroBK0pWHD .video-block {
-    width: 100% !important;
+@media (max-width: 767px) {
+  .cid-rrLElC1JgL .content {
+    text-align: center;
   }
+  .cid-rrLElC1JgL .content > div:not(:last-child) {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rrLElC1JgL .media-wrap {
+    margin-bottom: 1rem;
+  }
+}
+.cid-rrLElC1JgL .media-wrap .mbr-iconfont-logo {
+  font-size: 7.5rem;
+  color: #f36;
+}
+.cid-rrLElC1JgL .media-wrap img {
+  height: 6rem;
+}
+@media (max-width: 767px) {
+  .cid-rrLElC1JgL .footer-lower .copyright {
+    margin-bottom: 1rem;
+    text-align: center;
+  }
+}
+.cid-rrLElC1JgL .footer-lower hr {
+  margin: 1rem 0;
+  border-color: #fff;
+  opacity: .05;
+}
+.cid-rrLElC1JgL .footer-lower .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-rrLElC1JgL .footer-lower .social-list .mbr-iconfont-social {
+  font-size: 1.3rem;
+  color: #fff;
+}
+.cid-rrLElC1JgL .footer-lower .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-rrLElC1JgL .footer-lower .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-rrLElC1JgL .footer-lower .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-rrLElC1JgL .footer-lower .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-rrLElC1JgL P {
+  color: #ffffff;
+}
+.cid-rrLElC1JgL H5 {
+  color: #efefef;
 }
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
