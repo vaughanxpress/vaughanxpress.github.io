@@ -3102,10 +3102,11 @@ body {
 }
 .cid-rpqvsiz7yD {
   background: #073b4c;
+  padding-top: 120px;
+  padding-bottom: 120px;
 }
 .cid-rpqvsiz7yD .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rpqvsiz7yD .video-block {
