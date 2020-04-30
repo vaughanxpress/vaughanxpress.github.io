@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Vaughan Xpress",
-    "currentPage": "index.html",
+    "currentPage": "page5.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -3090,7 +3090,10 @@
               "color": "#ffffff"
             },
             "H2": {
-              "color": "#efefef"
+              "color": "#f7ed4a"
+            },
+            ".mbr-section-subtitle B": {
+              "color": "#f7ed4a"
             }
           },
           "_name": "contacts2",
