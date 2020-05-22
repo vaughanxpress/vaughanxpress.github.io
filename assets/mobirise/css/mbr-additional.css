@@ -1778,11 +1778,10 @@ body {
 }
 .cid-rZJlVhHKIf {
   background: #080808;
-  padding-top: 120px;
-  padding-bottom: 90px;
 }
 .cid-rZJlVhHKIf .video-block {
   margin: auto;
+  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rZJlVhHKIf .video-block {
