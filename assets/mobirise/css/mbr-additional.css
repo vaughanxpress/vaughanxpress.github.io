@@ -1778,10 +1778,11 @@ body {
 }
 .cid-rZJlVhHKIf {
   background: #080808;
+  padding-top: 120px;
+  padding-bottom: 45px;
 }
 .cid-rZJlVhHKIf .video-block {
   margin: auto;
-  width: 100% !important;
 }
 @media (max-width: 768px) {
   .cid-rZJlVhHKIf .video-block {
@@ -1789,8 +1790,8 @@ body {
   }
 }
 .cid-rrLElC1JgL {
-  padding-top: 30px;
-  padding-bottom: 15px;
+  padding-top: 75px;
+  padding-bottom: 120px;
   background-color: #073b4c;
 }
 @media (max-width: 767px) {
