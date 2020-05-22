@@ -1395,24 +1395,6 @@ body {
 .jq-selectbox:hover .jq-selectbox__trigger-arrow {
   border-top-color: #149dcc;
 }
-.cid-rECPTfUzqh {
-  background-image: url("../../../assets/images/fullsizerender-1-2000x1314.jpg");
-}
-.cid-rECPTfUzqh H1 {
-  color: #cc2952;
-}
-.cid-rECPTfUzqh .mbr-text,
-.cid-rECPTfUzqh .mbr-section-btn {
-  color: #cc2952;
-  text-align: center;
-}
-.cid-rECPTfUzqh H3 {
-  text-align: left;
-  color: #f7ed4a;
-}
-.cid-rECPTfUzqh B {
-  color: #d90d0d;
-}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #073b4c;
@@ -1793,6 +1775,19 @@ body {
 .cid-qTkzRZLJNu .nav-link:hover,
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
+}
+.cid-rZJlVhHKIf {
+  background: #080808;
+  padding-top: 120px;
+  padding-bottom: 45px;
+}
+.cid-rZJlVhHKIf .video-block {
+  margin: auto;
+}
+@media (max-width: 768px) {
+  .cid-rZJlVhHKIf .video-block {
+    width: 100% !important;
+  }
 }
 .cid-rrLElC1JgL {
   padding-top: 30px;
